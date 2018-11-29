@@ -1,2 +1,2 @@
 # tritpoDmitriy
-Курсовой Dmitriy!
+tritpoDmitriy!
