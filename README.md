@@ -9,32 +9,32 @@
 ### 1. Диаграмма активности<a name="1"></a>
 Диаграмма активности представляет собой следующую диаграмму: 
 
-![Диаграмма активности](https://github.com/Archeex/itNotes/blob/master/documentation/diagrams/images/ActivityDiagram.png)
+![Диаграмма активности](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_1.png)
 
 ### 2. Диаграмма классов<a name="2"></a>
 Диаграмма классов представляет собой следующую диаграмму: 
 
-![Диаграмма классов](https://github.com/Archeex/itNotes/blob/master/documentation/diagrams/images/ClassesDiagram.png)
+![Диаграмма классов](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_2.png)
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности представляет собой следующую диаграмму: 
 
-![Диаграмма последовательности](https://github.com/Archeex/itNotes/blob/master/documentation/diagrams/images/SequenceDiagram.png)
+![Диаграмма последовательности](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_3.png)
 
 ### 4. Диаграмма прецедентов<a name="4"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
 
-![Диаграмма прецедентов](https://github.com/Archeex/itNotes/blob/master/documentation/diagrams/images/UseCaseDiagram.png)
+![Диаграмма прецедентов](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_4.png)
 
 ### 5. Диаграмма развертывания<a name="5"></a>
 Диаграмма развертывания представляет собой следующую диаграмму: 
 
-![Диаграмма развертывания](https://github.com/Archeex/itNotes/blob/master/documentation/diagrams/images/DeploymentDiagram.png)
+![Диаграмма развертывания](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_5.png)
 
 ### 6. Диаграмма состояний<a name="6"></a>
 Диаграмма состояний представляет собой следующую диаграмму: 
 
-![Диаграмма состояний](https://github.com/Archeex/itNotes/blob/master/documentation/diagrams/images/StatesDiagram.png)
+![Диаграмма состояний](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_6.png)
 
 ### 7. Поток событий<a name="7"></a>
 #### 7.1 Глоссарий
