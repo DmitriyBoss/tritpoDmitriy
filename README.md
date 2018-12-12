@@ -29,7 +29,7 @@
 ### 5. Диаграмма развертывания<a name="5"></a>
 Диаграмма развертывания представляет собой следующую диаграмму: 
 
-![Диаграмма развертывания](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_5.png)
+![Диаграмма развертывания](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_2.png)
 
 ### 6. Диаграмма состояний<a name="6"></a>
 Диаграмма состояний представляет собой следующую диаграмму: 
