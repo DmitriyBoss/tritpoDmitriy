@@ -19,7 +19,7 @@
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности представляет собой следующую диаграмму: 
 
-![Диаграмма последовательности](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_3.png)
+![Диаграмма последовательности](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_6.png)
 
 ### 4. Диаграмма прецедентов<a name="4"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
@@ -34,7 +34,7 @@
 ### 6. Диаграмма состояний<a name="6"></a>
 Диаграмма состояний представляет собой следующую диаграмму: 
 
-![Диаграмма состояний](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_6.png)
+![Диаграмма состояний](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_3.png)
 
 ### 7. Поток событий<a name="7"></a>
 #### 7.1 Глоссарий
