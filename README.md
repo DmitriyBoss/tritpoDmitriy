@@ -24,7 +24,7 @@
 ### 4. Диаграмма прецедентов<a name="4"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
 
-![Диаграмма прецедентов](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_4.png)
+![Диаграмма прецедентов](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_8.png)
 
 ### 5. Диаграмма развертывания<a name="5"></a>
 Диаграмма развертывания представляет собой следующую диаграмму: 
