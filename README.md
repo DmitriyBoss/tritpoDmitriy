@@ -9,12 +9,12 @@
 ### 1. Диаграмма активности<a name="1"></a>
 Диаграмма активности представляет собой следующую диаграмму: 
 
-![Диаграмма активности](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_1.png)
+![Диаграмма активности](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_2.png)
 
 ### 2. Диаграмма классов<a name="2"></a>
 Диаграмма классов представляет собой следующую диаграмму: 
 
-![Диаграмма классов](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_2.png)
+![Диаграмма классов](https://github.com/DmitriyBoss/tritpoDmitriy/blob/master/images/Screenshot_1.png)
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности представляет собой следующую диаграмму: 
